@@ -60,7 +60,7 @@ void title()
 {
 	printf("\n\n\n\n\n\n\n\n\n\n    SKIBBUR\n\n\n\n\n\n\n\n");
 	bool keep = true;
-	waitForAnd(MENUSEL, situation = MENU;)
+	waitForAnd(MENUSEL, situation = MENU;);
 }
 
 
